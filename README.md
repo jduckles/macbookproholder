@@ -4,5 +4,8 @@ I initially made this at exactly the width of the MacBook Pro 17mm, but wound up
 
 [STL Preview](http://github.com/jduckles/macbookproholder/blob/master/macbookproholder.stl)
 
+<script src="https://embed.github.com/view/3d/jduckles/macbookproholder/master/macbookproholder.stl"></script>
+
+
 
 
