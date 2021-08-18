@@ -1,9 +1,9 @@
 // this is untested, but should be adapatable to any device with a bit of testing
 
-slot_width = 8;
+slot_width = 14.8;
 length = 190;
 height = 70;
-width = 50;
+width = 80;
 difference() { 
 // Initial volume
 resize([length,width/2,height])sphere(r=10, center=true);
