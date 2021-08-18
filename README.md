@@ -7,4 +7,8 @@ I initially made this at exactly the width of the MacBook Pro 17mm, but wound up
 
 ![STL](https://jduckles-dropshare.s3-us-west-2.amazonaws.com/Screen-Shot-2015-09-29-22-11-34.png)
 
+I've also just developed (August 19, 2021) an openscad version you can adapt to any device:
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/119403/129985743-5c935ac6-527b-4871-b1ec-ea20882f386c.png">
+
+
 
