@@ -1,4 +1,4 @@
-// this is untested, but should be adapatable to any device witha bit of testing
+// this is untested, but should be adapatable to any device with a bit of testing
 
 slot_width = 8;
 length = 190;
