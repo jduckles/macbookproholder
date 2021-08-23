@@ -15,9 +15,8 @@ module mbpholder(slot_width=14.8,
     // flat base
     translate([0,0,-height/2])cube([length,width,height], center=true);
     }
-
 }
 
 mbpholder();
-
+// Other examples 
 // mbpholder(length=180, height=70);
